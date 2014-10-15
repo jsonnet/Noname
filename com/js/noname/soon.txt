@@ -1,0 +1,15 @@
+//Worldspawn Gas (Liquid)
+    //Maschine Gas -> Energy
+    //Energy pipe
+    //Elect Furnace
+    //Elect Rebuilder (repairs tools)
+    //Commonad/key/item in inventory/enchantment on chestplate rare -> flying allowed
+    //OR Wings/Cheap Wings
+    //wings: glowdust,diablock.glowdust nstar,ironchest,nstar -,-,-
+    //cwings: reddust,htoneblock,reddust glass,leatherchest,glass -,-,-
+      //cwings duability
+        //-> isflying xplvl -1 when 0
+            //config easy ? hunger effect + fall no damage
+            //config normal ? hunger -10 + fall damage
+            //config hard ? instant death
+    

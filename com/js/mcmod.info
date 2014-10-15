@@ -1,0 +1,17 @@
+[
+{
+  "modid": "noname",
+  "name": "Noname Mod",
+  "description": "",
+  "version": "1.6.4-0.1",
+  "mcversion": "1.6.4",
+  "logoFile": "assets/noname/jslogo.png",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["JSonnet"],
+  "credits": "",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": ["forge-9.11.1.953"]
+}
+]
